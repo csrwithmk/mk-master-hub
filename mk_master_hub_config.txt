@@ -17,7 +17,7 @@ false
 
 
 [NOTICE]
-I love you. Rahmatullah.
+
 
 [FEATURES]
 search=true, download_all=true
