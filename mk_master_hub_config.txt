@@ -17,7 +17,7 @@ false
 
 
 [NOTICE]
-Hi, I love you.. 
+
 
 [FEATURES]
 search=true, download_all=true
