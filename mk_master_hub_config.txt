@@ -18,7 +18,7 @@ false
 
 [NOTICE]
 
-Enjoy MK master hub.. 
+
 [FEATURES]
 search=true, download_all=true
 
