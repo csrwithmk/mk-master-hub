@@ -2,7 +2,13 @@
 1.1
 
 [WHATSNEW]
-
+- New: Browse by Category, Recently Updated, My Extensions (Installed), and Storage Used
+- New: Sort extensions A-Z or Newest First
+- New: Uninstall option, and automatic update detection for installed extensions
+- New: "Update All Installed" - update everything in one tap
+- New: Featured section on the main page
+- New: Bilingual About screen (English / Roman Urdu)
+- Improved: Connect & About screen, smoother navigation throughout
 
 [MIN_VERSION]
 
