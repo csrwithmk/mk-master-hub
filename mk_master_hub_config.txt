@@ -1,35 +1,16 @@
 [VERSION]
-1.1
-
-[WHATSNEW]
-- New: Browse by Category, Recently Updated, My Extensions (Installed), and Storage Used
-- New: Sort extensions A-Z or Newest First
-- New: Uninstall option, and automatic update detection for installed extensions
-- New: "Update All Installed" - update everything in one tap
-- New: Featured section on the main page
-- New: Bilingual About screen (English / Roman Urdu)
-- Improved: Connect & About screen, smoother navigation throughout
-
-[MIN_VERSION]
-
-
-[DISABLED]
+1.2
+​[WHATSNEW]
+​New: MK Master Microphone extension is now public on the store and ready to install.  
+​Fixed: Broken links in the Connect and About sections have been successfully fixed.  
+​[MIN_VERSION]
+​[DISABLED]
 false
-
-[MAINTENANCE]
+​[MAINTENANCE]
 false
-
-[SECTION_MAINTENANCE]
-
-
-[NOTICE]
-
-
-[FEATURES]
+​[SECTION_MAINTENANCE]
+​[NOTICE]
+​[FEATURES]
 search=true, download_all=true
-
-[BANNER]
-
-
-[HELP_TEXT]
-
+​[BANNER]
+​[HELP_TEXT]
